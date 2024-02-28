@@ -1,0 +1,4 @@
+{
+    "zip_file_path": "raw_data/data.zip",
+    "extracted_folder_path": "artifacts/unzipped_data"
+}
